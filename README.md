@@ -2,6 +2,13 @@
 
 Cli tool to grab urls from swaggerhub
 
+Install
+---
+
+```
+go install github.com/RandomRobbieBF/swaggerhub@latest
+```
+
 How to Use
 ----
 
