@@ -1,4 +1,5 @@
-# swaggerhub
+# SwaggerHub Grabber
+
 Cli tool to grab urls from swaggerhub
 
 How to Use
